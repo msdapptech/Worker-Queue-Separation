@@ -1,0 +1,4 @@
+./main-app/node_module
+./main-app/dist
+./worker/node_module
+./worker/dist
